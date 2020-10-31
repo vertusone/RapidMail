@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Games\Projects\Labs\Email\MyForm.h(296,16): warning C4551: в вызове функции отсутствует список аргументов
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Email.vcxproj -> D:\Games\Projects\Labs\Email\Debug\Email.exe
